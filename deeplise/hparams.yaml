@@ -1,0 +1,8 @@
+batch_size: 1
+bilinear: false
+image_scale: 1.0
+lr: 0.0001
+n_channels: 19
+n_classes: 1
+num_tpu_cores: null
+val_percent: 0.1
