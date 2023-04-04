@@ -1,0 +1,20 @@
+['NCP', 'C3P', 'CCP', 'OCE', 'C3N', 'N3C', 'None-Surf', 'CRN', 'CRP', 'O3E', 'C2P', 'OCC', 'NRV', 'NCC', 'NRE', 'HAL', 'O2E', 'S3N', 'MTL']
+['NCP', 'C3P', 'CCP', 'OCE', 'C3N', 'N3C', 'None-Surf', 'CRN', 'CRP', 'O3E', 'C2P', 'OCC', 'NRV', 'NCC', 'NRE', 'HAL', 'O2E', 'S3N', 'MTL']
+Processing: 1bhm.json, Remaining: 5
+Processing: 2bop.json, Remaining: 2
+Processing: .nfs00000000180ff78c00000001, Remaining: 0
+Processing: 1tc3.json, Remaining: 4
+Processing: 1cma.json, Remaining: 3
+Processing: 1pnr.json, Remaining: 1
+Protein Num: 0
+1tc3.json is done by Process-27
+Protein Num: 1
+1bhm.json is done by Process-1
+Protein Num: 2
+1cma.json is done by Process-27
+Protein Num: 3
+2bop.json is done by Process-1
+Protein Num: 4
+.nfs00000000180ff78c00000001 is done by Process-1
+Protein Num: 5
+1pnr.json is done by Process-27
