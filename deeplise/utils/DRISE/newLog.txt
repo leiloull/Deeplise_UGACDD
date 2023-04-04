@@ -1,0 +1,1935 @@
+--------------------USER INPUT---------------------
+Input = . is directory or incompatible file type.
+.. is directory or incompatible file type.
+directory with 62 files:
+	-data/inputJsons/1yrn.json
+	-data/inputJsons/1c0w.json
+	-data/inputJsons/1lmb.json
+	-data/inputJsons/1a74.json
+	-data/inputJsons/1oct.json
+	-data/inputJsons/1rep.json
+	-data/inputJsons/1dp7.json
+	-data/inputJsons/1hcr.json
+	-data/inputJsons/3cro.json
+	-data/inputJsons/2gli.json
+	-data/inputJsons/1hlo.json
+	-data/inputJsons/1svc.json
+	-data/inputJsons/1bf5.json
+	-data/inputJsons/1ber.json
+	-data/inputJsons/1gdt.json
+	-data/inputJsons/1hwt.json
+	-data/inputJsons/1srs.json
+	-data/inputJsons/1pue.json
+	-data/inputJsons/1bl0.json
+	-data/inputJsons/1cma.json
+	-data/inputJsons/1if1.json
+	-data/inputJsons/1ihf.json
+	-data/inputJsons/1cdw.json
+	-data/inputJsons/1fjl.json
+	-data/inputJsons/1ign.json
+	-data/inputJsons/1cf7.json
+	-data/inputJsons/1tsr.json
+	-data/inputJsons/1aay.json
+	-data/inputJsons/2drp.json
+	-data/inputJsons/1mse.json
+	-data/inputJsons/1tf3.json
+	-data/inputJsons/2hdc.json
+	-data/inputJsons/1hcq.json
+	-data/inputJsons/1mnm.json
+	-data/inputJsons/1mdy.json
+	-data/inputJsons/1d02.json
+	-data/inputJsons/1gat.json
+	-data/inputJsons/1xbr.json
+	-data/inputJsons/1ubd.json
+	-data/inputJsons/1hdd.json
+	-data/inputJsons/1pyi.json
+	-data/inputJsons/1ecr.json
+	-data/inputJsons/1gcc.json
+	-data/inputJsons/1par.json
+	-data/inputJsons/1mey.json
+	-data/inputJsons/1tro.json
+	-data/inputJsons/1b3t.json
+	-data/inputJsons/1pvi.json
+	-data/inputJsons/1mhd.json
+	-data/inputJsons/1yui.json
+	-data/inputJsons/1cjg.json
+	-data/inputJsons/1hry.json
+	-data/inputJsons/1per.json
+	-data/inputJsons/1pdn.json
+	-data/inputJsons/1bhm.json
+	-data/inputJsons/1tc3.json
+	-data/inputJsons/1ysa.json
+	-data/inputJsons/2bop.json
+	-data/inputJsons/1a02.json
+	-data/inputJsons/1pnr.json
+	-data/inputJsons/1azq.json
+	-data/inputJsons/1d66.json
+Storage Method = local file io
+Molecule types permitted in computation:
+	-DNA
+Run Configuration = triangle training (atom type, surface, graph building)
+C3P added to atomTypeMap as 0
+CA-ALA,C3P
+C3N added to atomTypeMap as 1
+CB-ALA,C3N
+NCP added to atomTypeMap as 2
+N-ALA,NCP
+CCP added to atomTypeMap as 3
+C-ALA,CCP
+OCE added to atomTypeMap as 4
+O-ALA,OCE
+OCC added to atomTypeMap as 5
+OXT-ALA,OCC
+HYD added to atomTypeMap as 6
+H-ALA,HYD
+HG1-ALA,HYD
+HA-ALA,HYD
+HB1-ALA,HYD
+HB2-ALA,HYD
+HB3-ALA,HYD
+CA-CYS,C3P
+CB-CYS,C3N
+S3N added to atomTypeMap as 7
+SG-CYS,S3N
+N-CYS,NCP
+C-CYS,CCP
+O-CYS,OCE
+OXT-CYS,OCC
+H-CYS,HYD
+HG1-CYS,HYD
+CA-ASP,C3P
+CB-ASP,C3N
+C2P added to atomTypeMap as 8
+CG-ASP,C2P
+OD1-ASP,OCC
+OD2-ASP,OCC
+N-ASP,NCP
+C-ASP,CCP
+O-ASP,OCE
+OXT-ASP,OCC
+H-ASP,HYD
+HG1-ASP,HYD
+HA-ASP,HYD
+HB2-ASP,HYD
+HB3-ASP,HYD
+CA-GLU,C3P
+CB-GLU,C3N
+CG-GLU,C3N
+CD-GLU,C2P
+OE1-GLU,OCC
+OE2-GLU,OCC
+N-GLU,NCP
+C-GLU,CCP
+O-GLU,OCE
+OXT-GLU,OCC
+H-GLU,HYD
+HG1-GLU,HYD
+HA-GLU,HYD
+HB2-GLU,HYD
+HB3-GLU,HYD
+HG2-GLU,HYD
+HG3-GLU,HYD
+CA-PHE,C3P
+CB-PHE,C3N
+CRN added to atomTypeMap as 9
+CG-PHE,CRN
+CD1-PHE,CRN
+CD2-PHE,CRN
+CE1-PHE,CRN
+CE2-PHE,CRN
+CZ-PHE,CRN
+N-PHE,NCP
+C-PHE,CCP
+O-PHE,OCE
+OXT-PHE,OCC
+H-PHE,HYD
+HG1-PHE,HYD
+HA-PHE,HYD
+HB2-PHE,HYD
+HB3-PHE,HYD
+HD1-PHE,HYD
+HD2-PHE,HYD
+HE1-PHE,HYD
+HE2-PHE,HYD
+HZ-PHE,HYD
+CA-GLY,C3P
+N-GLY,NCP
+C-GLY,CCP
+O-GLY,OCE
+OXT-GLY,OCC
+H-GLY,HYD
+HG1-GLY,HYD
+HA2-GLY,HYD
+HA3-GLY,HYD
+CA-HIS,C3P
+CB-HIS,C3N
+CRP added to atomTypeMap as 10
+CG-HIS,CRP
+NRV added to atomTypeMap as 11
+ND1-HIS,NRV
+CD2-HIS,CRP
+CE1-HIS,CRP
+NE2-HIS,NRV
+N-HIS,NCP
+C-HIS,CCP
+O-HIS,OCE
+OXT-HIS,OCC
+H-HIS,HYD
+HG1-HIS,HYD
+HD1-HIS,HYD
+HE2-HIS,HYD
+H1-HIS,HYD
+H2-HIS,HYD
+H3-HIS,HYD
+HA-HIS,HYD
+HB2-HIS,HYD
+HB3-HIS,HYD
+HD2-HIS,HYD
+HE1-HIS,HYD
+CA-ILE,C3P
+CB-ILE,C3N
+CG1-ILE,C3N
+CG2-ILE,C3N
+CD1-ILE,C3N
+N-ILE,NCP
+C-ILE,CCP
+O-ILE,OCE
+OXT-ILE,OCC
+H-ILE,HYD
+HG1-ILE,HYD
+HA-ILE,HYD
+HB-ILE,HYD
+HG12-ILE,HYD
+HG13-ILE,HYD
+HG21-ILE,HYD
+HG22-ILE,HYD
+HG23-ILE,HYD
+HD11-ILE,HYD
+HD12-ILE,HYD
+HD13-ILE,HYD
+CA-LYS,C3P
+CB-LYS,C3N
+CG-LYS,C3N
+CD-LYS,C3N
+CE-LYS,C3P
+N3C added to atomTypeMap as 12
+NZ-LYS,N3C
+N-LYS,NCP
+C-LYS,CCP
+O-LYS,OCE
+OXT-LYS,OCC
+H-LYS,HYD
+HG1-LYS,HYD
+HZ1-LYS,HYD
+HZ2-LYS,HYD
+HZ3-LYS,HYD
+HA-LYS,HYD
+HB2-LYS,HYD
+HB3-LYS,HYD
+HG2-LYS,HYD
+HG3-LYS,HYD
+HD2-LYS,HYD
+HD3-LYS,HYD
+HE2-LYS,HYD
+HE3-LYS,HYD
+CA-LEU,C3P
+CB-LEU,C3N
+CG-LEU,C3N
+CD1-LEU,C3N
+CD2-LEU,C3N
+N-LEU,NCP
+C-LEU,CCP
+O-LEU,OCE
+OXT-LEU,OCC
+H-LEU,HYD
+HG1-LEU,HYD
+HA-LEU,HYD
+HB2-LEU,HYD
+HB3-LEU,HYD
+HD11-LEU,HYD
+HD12-LEU,HYD
+HD13-LEU,HYD
+HD21-LEU,HYD
+HD22-LEU,HYD
+HD23-LEU,HYD
+CA-MET,C3P
+CB-MET,C3N
+CG-MET,C3N
+CE-MET,C3N
+SD-MET,S3N
+N-MET,NCP
+C-MET,CCP
+O-MET,OCE
+OXT-MET,OCC
+H-MET,HYD
+HG1-MET,HYD
+HA-MET,HYD
+HB2-MET,HYD
+HB3-MET,HYD
+HG2-MET,HYD
+HG3-MET,HYD
+HE1-MET,HYD
+HE2-MET,HYD
+HE3-MET,HYD
+CA-ASN,C3P
+CB-ASN,C3N
+CG-ASN,C2P
+OD1-ASN,OCE
+ND2-ASN,NCP
+N-ASN,NCP
+C-ASN,CCP
+O-ASN,OCE
+OXT-ASN,OCC
+H-ASN,HYD
+HG1-ASN,HYD
+HD21-ASN,HYD
+HD22-ASN,HYD
+HA-ASN,HYD
+HB2-ASN,HYD
+HB3-ASN,HYD
+N-PRO,NCP
+CA-PRO,C3P
+CB-PRO,C3N
+CG-PRO,C3N
+CD-PRO,C3P
+C-PRO,CCP
+O-PRO,OCE
+OXT-PRO,OCC
+H-PRO,HYD
+HG1-PRO,HYD
+HA-PRO,HYD
+HB2-PRO,HYD
+HB3-PRO,HYD
+HG2-PRO,HYD
+HG3-PRO,HYD
+HD2-PRO,HYD
+HD3-PRO,HYD
+CA-GLN,C3P
+CB-GLN,C3N
+CG-GLN,C3N
+CD-GLN,C2P
+OE1-GLN,OCE
+NE2-GLN,NCP
+N-GLN,NCP
+C-GLN,CCP
+O-GLN,OCE
+OXT-GLN,OCC
+H-GLN,HYD
+HG1-GLN,HYD
+HE21-GLN,HYD
+HE22-GLN,HYD
+HA-GLN,HYD
+HB2-GLN,HYD
+HB3-GLN,HYD
+HG2-GLN,HYD
+HG3-GLN,HYD
+CA-ARG,C3P
+CB-ARG,C3N
+CG-ARG,C3N
+CD-ARG,C3P
+NCC added to atomTypeMap as 13
+NE-ARG,NCC
+CZ-ARG,CCP
+NH1-ARG,NCC
+NH2-ARG,NCC
+N-ARG,NCP
+C-ARG,CCP
+O-ARG,OCE
+OXT-ARG,OCC
+H-ARG,HYD
+HG1-ARG,HYD
+HE-ARG,HYD
+HH11-ARG,HYD
+HH12-ARG,HYD
+HH21-ARG,HYD
+HH22-ARG,HYD
+HA-ARG,HYD
+HB2-ARG,HYD
+HB3-ARG,HYD
+HG2-ARG,HYD
+HG3-ARG,HYD
+HD2-ARG,HYD
+HD3-ARG,HYD
+CA-SER,C3P
+CB-SER,C3P
+O3E added to atomTypeMap as 14
+OG-SER,O3E
+N-SER,NCP
+C-SER,CCP
+O-SER,OCE
+OXT-SER,OCC
+H-SER,HYD
+HG1-SER,HYD
+HA-SER,HYD
+HB2-SER,HYD
+HB3-SER,HYD
+CA-THR,C3P
+CB-THR,C3P
+OG1-THR,O3E
+CG2-THR,C3N
+N-THR,NCP
+C-THR,CCP
+O-THR,OCE
+OXT-THR,OCC
+H-THR,HYD
+HG1-THR,HYD
+HA-THR,HYD
+HB-THR,HYD
+HG21-THR,HYD
+HG22-THR,HYD
+HG23-THR,HYD
+CA-VAL,C3P
+CB-VAL,C3N
+CG1-VAL,C3N
+CG2-VAL,C3N
+N-VAL,NCP
+C-VAL,CCP
+O-VAL,OCE
+OXT-VAL,OCC
+H-VAL,HYD
+HG1-VAL,HYD
+HA-VAL,HYD
+HB-VAL,HYD
+HG11-VAL,HYD
+HG12-VAL,HYD
+HG13-VAL,HYD
+HG21-VAL,HYD
+HG22-VAL,HYD
+HG23-VAL,HYD
+CA-TRP,C3P
+CB-TRP,C3N
+CG-TRP,CRN
+CD1-TRP,CRP
+CD2-TRP,CRN
+NRE added to atomTypeMap as 15
+NE1-TRP,NRE
+CE2-TRP,CRP
+CE3-TRP,CRN
+CZ2-TRP,CRN
+CZ3-TRP,CRN
+CH2-TRP,CRN
+N-TRP,NCP
+C-TRP,CCP
+O-TRP,OCE
+OXT-TRP,OCC
+H-TRP,HYD
+HG1-TRP,HYD
+HE1-TRP,HYD
+HA-TRP,HYD
+HB2-TRP,HYD
+HB3-TRP,HYD
+HD1-TRP,HYD
+HE3-TRP,HYD
+HZ2-TRP,HYD
+HZ3-TRP,HYD
+HH2-TRP,HYD
+CA-TYR,C3P
+CB-TYR,C3N
+CG-TYR,CRN
+CD1-TYR,CRN
+CD2-TYR,CRN
+CE1-TYR,CRN
+CE2-TYR,CRN
+CZ-TYR,CRP
+OH-TYR,O3E
+N-TYR,NCP
+C-TYR,CCP
+O-TYR,OCE
+OXT-TYR,OCC
+H-TYR,HYD
+HG1-TYR,HYD
+HH-TYR,HYD
+HA-TYR,HYD
+HB2-TYR,HYD
+HB3-TYR,HYD
+HD1-TYR,HYD
+HD2-TYR,HYD
+HE1-TYR,HYD
+HE2-TYR,HYD
+PHO added to atomTypeMap as 16
+P-CMP,PHO
+O2E added to atomTypeMap as 17
+O1P-CMP,O2E
+O2P-CMP,O3E
+O5'-CMP,O3E
+PG-ATP,PHO
+O1G-ATP,O2E
+O2G-ATP,O3E
+O3G-ATP,O3E
+O1B-ATP,O2E
+O2B-ATP,O3E
+O3B-ATP,O2E
+PA-ATP,PHO
+O1A-ATP,O2E
+O2A-ATP,O3E
+O3A-ATP,O2E
+O5'-ATP,O2E
+C5'-ATP,C3N
+C4'-ATP,C2P
+O4'-ATP,O2E
+C3'-ATP,C2P
+O3'-ATP,O3E
+C2'-ATP,C2P
+C1'-ATP,C2P
+N9-ATP,N3C
+C8-ATP,C2P
+N7-ATP,N3C
+C5-ATP,C3N
+C6-ATP,C3N
+N6-ATP,N3C
+N1-ATP,NCC
+C2-ATP,C2P
+N3-ATP,NCC
+C4-ATP,C3N
+C1-EDO,C2P
+C2-EDO,C2P
+O1-EDO,O2E
+O2-EDO,O2E
+C1-GOL,C2P
+C2-GOL,C3P
+C3-GOL,C2P
+O1-GOL,O2E
+O2-GOL,O2E
+O3-GOL,O2E
+C1-PGE,C3N
+C2-PGE,C3N
+C3-PGE,C3N
+C4-PGE,C3N
+C5-PGE,C3N
+C6-PGE,C3N
+O1-PGE,O2E
+O2-PGE,O2E
+O3-PGE,O2E
+O4-PGE,O2E
+PA-NAP,PHO
+OLE added to atomTypeMap as 18
+O1A-NAP,OLE
+O2A-NAP,O3E
+O5B-NAP,O2E
+C5B-NAP,C3N
+C4B-NAP,C3N
+O4B-NAP,O2E
+C3B-NAP,C3N
+O3B-NAP,O2E
+MTL added to atomTypeMap as 19
+LI-LI,MTL
+NA-NA,MTL
+K-K,MTL
+RB-RB,MTL
+BE-BE,MTL
+MG-MG,MTL
+CA-CA,MTL
+SR-SR,MTL
+BA-BA,MTL
+TI-TI,MTL
+V-V,MTL
+CR-CR,MTL
+MN-MN,MTL
+ME-ME,MTL
+FE-FE,MTL
+CO-CO,MTL
+RH-RH,MTL
+IR-IR,MTL
+NI-NI,MTL
+PD-PD,MTL
+PT-PT,MTL
+CU-CU,MTL
+AG-AG,MTL
+AU-AU,MTL
+ZN-ZN,MTL
+CD-CD,MTL
+HG-HG,MTL
+AL-AL,MTL
+GA-GA,MTL
+IN-IN,MTL
+SN-SN,MTL
+TI-TI,MTL
+PB-PB,MTL
+BI-BI,MTL
+PO-PO,MTL
+MO-MO,MTL
+YB-YB,MTL
+SMT added to atomTypeMap as 20
+B-B,SMT
+SI-SI,SMT
+GE-GE,SMT
+AS-AS,SMT
+SE-SE,SMT
+SB-SB,SMT
+TE-TE,SMT
+HAL added to atomTypeMap as 21
+BR-BR,HAL
+CL-CL,HAL
+F-F,HAL
+I-I,HAL
+H2O added to atomTypeMap as 22
+O-HOH,H2O
+H-H,HYD
+input = data/inputJsons/1yrn.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 299
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 163090 triangles with 160561 pairs
+time elapsed = 1 seconds.
+1yrn string has been created.
+1yrn.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1yrn.(1/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1c0w.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 803
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 314781 triangles with 152894 pairs
+time elapsed = 1 seconds.
+1c0w string has been created.
+1c0w.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1c0w.(2/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1lmb.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 501
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 218968 triangles with 145061 pairs
+time elapsed = 1 seconds.
+1lmb string has been created.
+1lmb.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1lmb.(3/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1a74.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1448
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 574990 triangles with 148316 pairs
+time elapsed = 3 seconds.
+1a74 string has been created.
+1a74.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1a74.(4/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1oct.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 741
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 320708 triangles with 104766 pairs
+time elapsed = 1 seconds.
+1oct string has been created.
+1oct.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1oct.(5/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1rep.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1070
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 464714 triangles with 156632 pairs
+time elapsed = 3 seconds.
+1rep string has been created.
+1rep.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1rep.(6/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1dp7.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 421
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 166773 triangles with 20218 pairs
+time elapsed = 0 seconds.
+1dp7 string has been created.
+1dp7.json has been created.
+---------------------------------------------------
+time elapsed = 0 seconds for 1dp7.(7/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1hcr.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 320
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 102821 triangles with 93935 pairs
+time elapsed = 1 seconds.
+1hcr string has been created.
+1hcr.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1hcr.(8/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/3cro.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 361
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 154834 triangles with 147472 pairs
+time elapsed = 0 seconds.
+3cro string has been created.
+3cro.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 3cro.(9/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/2gli.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 903
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 445201 triangles with 155660 pairs
+time elapsed = 2 seconds.
+2gli string has been created.
+2gli.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 2gli.(10/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1hlo.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 927
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 452954 triangles with 69861 pairs
+time elapsed = 1 seconds.
+1hlo string has been created.
+1hlo.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1hlo.(11/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1svc.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1571
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 727425 triangles with 30422 pairs
+time elapsed = 0 seconds.
+1svc string has been created.
+1svc.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1svc.(12/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1bf5.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 2819
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 1552485 triangles with 133759 pairs
+time elapsed = 9 seconds.
+1bf5 string has been created.
+1bf5.json has been created.
+---------------------------------------------------
+time elapsed = 9 seconds for 1bf5.(13/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1ber.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1069
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 552894 triangles with 105223 pairs
+time elapsed = 3 seconds.
+1ber string has been created.
+1ber.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1ber.(14/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1gdt.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1948
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 951133 triangles with 281519 pairs
+time elapsed = 13 seconds.
+1gdt string has been created.
+1gdt.json has been created.
+---------------------------------------------------
+time elapsed = 14 seconds for 1gdt.(15/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1hwt.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1740
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 1024531 triangles with 300983 pairs
+time elapsed = 15 seconds.
+1hwt string has been created.
+1hwt.json has been created.
+---------------------------------------------------
+time elapsed = 15 seconds for 1hwt.(16/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1srs.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 886
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 394821 triangles with 136393 pairs
+time elapsed = 3 seconds.
+1srs string has been created.
+1srs.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1srs.(17/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1pue.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 457
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 156964 triangles with 113592 pairs
+time elapsed = 1 seconds.
+1pue string has been created.
+1pue.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1pue.(18/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1bl0.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 613
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 256824 triangles with 185646 pairs
+time elapsed = 2 seconds.
+1bl0 string has been created.
+1bl0.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1bl0.(19/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1cma.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1120
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 555666 triangles with 58407 pairs
+time elapsed = 1 seconds.
+1cma string has been created.
+1cma.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1cma.(20/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1if1.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1136
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 518961 triangles with 203401 pairs
+time elapsed = 5 seconds.
+1if1 string has been created.
+1if1.json has been created.
+---------------------------------------------------
+time elapsed = 6 seconds for 1if1.(21/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1ihf.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1006
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 460747 triangles with 280381 pairs
+time elapsed = 6 seconds.
+1ihf string has been created.
+1ihf.json has been created.
+---------------------------------------------------
+time elapsed = 7 seconds for 1ihf.(22/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1cdw.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 846
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 306822 triangles with 118733 pairs
+time elapsed = 2 seconds.
+1cdw string has been created.
+1cdw.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1cdw.(23/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1fjl.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 393
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 157781 triangles with 98483 pairs
+time elapsed = 0 seconds.
+1fjl string has been created.
+1fjl.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1fjl.(24/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1ign.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1082
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 471192 triangles with 136193 pairs
+time elapsed = 3 seconds.
+1ign string has been created.
+1ign.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1ign.(25/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1cf7.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 819
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 408987 triangles with 104226 pairs
+time elapsed = 2 seconds.
+1cf7 string has been created.
+1cf7.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1cf7.(26/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1tsr.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 945
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 437266 triangles with 158945 pairs
+time elapsed = 3 seconds.
+1tsr string has been created.
+1tsr.json has been created.
+---------------------------------------------------
+time elapsed = 4 seconds for 1tsr.(27/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1aay.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 513
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 222894 triangles with 70555 pairs
+time elapsed = 1 seconds.
+1aay string has been created.
+1aay.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1aay.(28/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/2drp.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 371
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 154922 triangles with 138816 pairs
+time elapsed = 1 seconds.
+2drp string has been created.
+2drp.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 2drp.(29/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1mse.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 611
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 282192 triangles with 71619 pairs
+time elapsed = 1 seconds.
+1mse string has been created.
+1mse.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1mse.(30/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1tf3.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 558
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 274095 triangles with 108550 pairs
+time elapsed = 1 seconds.
+1tf3 string has been created.
+1tf3.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1tf3.(31/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/2hdc.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 630
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 406578 triangles with 122695 pairs
+time elapsed = 3 seconds.
+2hdc string has been created.
+2hdc.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 2hdc.(32/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1hcq.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1451
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 580821 triangles with 267981 pairs
+time elapsed = 8 seconds.
+1hcq string has been created.
+1hcq.json has been created.
+---------------------------------------------------
+time elapsed = 8 seconds for 1hcq.(33/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1mnm.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1750
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 768364 triangles with 203513 pairs
+time elapsed = 8 seconds.
+1mnm string has been created.
+1mnm.json has been created.
+---------------------------------------------------
+time elapsed = 8 seconds for 1mnm.(34/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1mdy.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 828
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 399876 triangles with 97229 pairs
+time elapsed = 2 seconds.
+1mdy string has been created.
+1mdy.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1mdy.(35/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1d02.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1903
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 862921 triangles with 59227 pairs
+time elapsed = 2 seconds.
+1d02 string has been created.
+1d02.json has been created.
+---------------------------------------------------
+time elapsed = 4 seconds for 1d02.(36/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1gat.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 374
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 171569 triangles with 45292 pairs
+time elapsed = 0 seconds.
+1gat string has been created.
+1gat.json has been created.
+---------------------------------------------------
+time elapsed = 0 seconds for 1gat.(37/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1xbr.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 912
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 371529 triangles with 182722 pairs
+time elapsed = 4 seconds.
+1xbr string has been created.
+1xbr.json has been created.
+---------------------------------------------------
+time elapsed = 4 seconds for 1xbr.(38/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1ubd.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 659
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 293655 triangles with 150025 pairs
+time elapsed = 2 seconds.
+1ubd string has been created.
+1ubd.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1ubd.(39/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1hdd.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 715
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 318344 triangles with 156988 pairs
+time elapsed = 3 seconds.
+1hdd string has been created.
+1hdd.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1hdd.(40/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1pyi.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 913
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 518344 triangles with 97805 pairs
+time elapsed = 3 seconds.
+1pyi string has been created.
+1pyi.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1pyi.(41/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1ecr.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1612
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 698414 triangles with 99498 pairs
+time elapsed = 3 seconds.
+1ecr string has been created.
+1ecr.json has been created.
+---------------------------------------------------
+time elapsed = 4 seconds for 1ecr.(42/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1gcc.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 377
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 166013 triangles with 73758 pairs
+time elapsed = 0 seconds.
+1gcc string has been created.
+1gcc.json has been created.
+---------------------------------------------------
+time elapsed = 0 seconds for 1gcc.(43/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1par.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 585
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 274342 triangles with 160424 pairs
+time elapsed = 3 seconds.
+1par string has been created.
+1par.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1par.(44/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1mey.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 482
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 232681 triangles with 82581 pairs
+time elapsed = 1 seconds.
+1mey string has been created.
+1mey.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1mey.(45/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1tro.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1127
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 588416 triangles with 138559 pairs
+time elapsed = 4 seconds.
+1tro string has been created.
+1tro.json has been created.
+---------------------------------------------------
+time elapsed = 4 seconds for 1tro.(46/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1b3t.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1364
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 573567 triangles with 134024 pairs
+time elapsed = 4 seconds.
+1b3t string has been created.
+1b3t.json has been created.
+---------------------------------------------------
+time elapsed = 4 seconds for 1b3t.(47/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1pvi.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1638
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 789444 triangles with 75434 pairs
+time elapsed = 3 seconds.
+1pvi string has been created.
+1pvi.json has been created.
+---------------------------------------------------
+time elapsed = 4 seconds for 1pvi.(48/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1mhd.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 660
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 295296 triangles with 91593 pairs
+time elapsed = 1 seconds.
+1mhd string has been created.
+1mhd.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1mhd.(49/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1yui.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 365
+time elapsed = 1 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 131639 triangles with 66983 pairs
+time elapsed = 0 seconds.
+1yui string has been created.
+1yui.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1yui.(50/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1cjg.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 741
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 321241 triangles with 165389 pairs
+time elapsed = 3 seconds.
+1cjg string has been created.
+1cjg.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1cjg.(51/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1hry.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 545
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 314719 triangles with 41575 pairs
+time elapsed = 1 seconds.
+1hry string has been created.
+1hry.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1hry.(52/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1per.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 627
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 276156 triangles with 148530 pairs
+time elapsed = 2 seconds.
+1per string has been created.
+1per.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1per.(53/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1pdn.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 704
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 327063 triangles with 102832 pairs
+time elapsed = 2 seconds.
+1pdn string has been created.
+1pdn.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1pdn.(54/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1bhm.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 892
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 338560 triangles with 69849 pairs
+time elapsed = 1 seconds.
+1bhm string has been created.
+1bhm.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1bhm.(55/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1tc3.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 290
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 105686 triangles with 152653 pairs
+time elapsed = 0 seconds.
+1tc3 string has been created.
+1tc3.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 1tc3.(56/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1ysa.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 747
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 365545 triangles with 153143 pairs
+time elapsed = 2 seconds.
+1ysa string has been created.
+1ysa.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1ysa.(57/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/2bop.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 460
+time elapsed = 1 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 177305 triangles with 28530 pairs
+time elapsed = 0 seconds.
+2bop string has been created.
+2bop.json has been created.
+---------------------------------------------------
+time elapsed = 1 seconds for 2bop.(58/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1a02.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 2086
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 1046143 triangles with 151337 pairs
+time elapsed = 8 seconds.
+1a02 string has been created.
+1a02.json has been created.
+---------------------------------------------------
+time elapsed = 8 seconds for 1a02.(59/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1pnr.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 1639
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 772479 triangles with 27790 pairs
+time elapsed = 2 seconds.
+1pnr string has been created.
+1pnr.json has been created.
+---------------------------------------------------
+time elapsed = 2 seconds for 1pnr.(60/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1azq.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 377
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 143240 triangles with 43941 pairs
+time elapsed = 0 seconds.
+1azq string has been created.
+1azq.json has been created.
+---------------------------------------------------
+time elapsed = 0 seconds for 1azq.(61/62)
+---------------------------------------------------
+
+---------------------------------------------------
+input = data/inputJsons/1d66.json
+Using json reader
+-----------------FreeSASASurface-------------------
+NUM SURFACE FOUND 720
+time elapsed = 0 seconds for freesasa determination.
+--------------------Graph--------------------------
+Finding edges
+Generating Target Triangles
+triangles recorded
+Updating Triangles From Spheres
+Generating Target Triangle Reference
+Find Query Edges
+Execute Triangel Counters
+graphing 320457 triangles with 140995 pairs
+time elapsed = 3 seconds.
+1d66 string has been created.
+1d66.json has been created.
+---------------------------------------------------
+time elapsed = 3 seconds for 1d66.(62/62)
+---------------------------------------------------
+
+---------------------------------------------------
+-----------------Normalizing-----------------------
+Printing JSON
+triangles.json has been created.
+---------------------------------------------------
